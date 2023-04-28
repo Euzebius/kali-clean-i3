@@ -1,8 +1,10 @@
 # Kali-Clean
 
-My kali i3 desktop setup. Some people have been asking so I wrote a quick installer to get going. 
+My kali i3 desktop setup. I forked from the excellent xct repo.
 
-After cloning the repo just run ./install.sh from a non-root user. This updates kali and installs a lot of stuff, so it will take a while. Feel free to optimize ;)
+After cloning the repo just run ./install.sh from a non-root user.
+
+To be updated soon (replacing oh-my-zsh with oh-my-posh, changing wallpaper etc)
 
 ## Installation
 
